@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Maersk.Sorting.Api/bin/Debug/netcoreapp3.1/Maersk.Sorting.Api.dll",
+            "program": "${workspaceFolder}/Sorting.Api/bin/Debug/netcoreapp3.1/Sorting.Api.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Maersk.Sorting.Api",
+            "cwd": "${workspaceFolder}/Sorting.Api",
             "stopAtEntry": false,
             "serverReadyAction": {
                 "action": "openExternally",
